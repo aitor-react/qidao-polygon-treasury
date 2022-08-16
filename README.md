@@ -1,4 +1,4 @@
-### Purpose
+## Purpose
 
 The following site contains Qidao protocol's treasury outflows from the wallet addresses taken from the [docs](https://docs.mai.finance/functions/smart-contract-addresses) in a community effort to show DAO transparency
 
