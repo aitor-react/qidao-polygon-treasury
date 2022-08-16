@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
-    "dotenv": "^16.0.1",
-    "node-fetch": "^3.2.10"
+    "chart.js": "^3.9.1",
+    "dotenv": "^16.0.1"
   },
   "type": "module"
 }
